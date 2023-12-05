@@ -4,11 +4,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.bumagat.adrianjames.block6.p1.quiz"
     compileSdk = 34
 
     defaultConfig {
         applicationId = "com.bumagat.adrianjames.block6.p1.quiz"
+=======
+    namespace = "com.bumagat.adrianjames.block1.p1.quiz"
+    compileSdk = 34
+
+    defaultConfig {
+        applicationId = "com.bumagat.adrianjames.block1.p1.quiz"
+>>>>>>> 69fad67cb0d3f131f37a64b81e2dfd45b8473e67
         minSdk = 24
         targetSdk = 34
         versionCode = 1
