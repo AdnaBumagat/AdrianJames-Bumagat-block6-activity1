@@ -1,4 +1,4 @@
-package com.bumagat.adrianjames.block1.p1.quiz
+package com.bumagat.adrianjames.block6.p1.quiz
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
