@@ -44,5 +44,5 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
-This is my 5th Commit and Push
+This is my 5th Commit and Pushs
 
